@@ -1,0 +1,39 @@
+body {
+    background-image: url(./Resources/download.png);
+    margin: 0px 150px;
+    font-family: 'Roboto Slab', serif;
+}
+
+header {
+    background-image: url(./Resources/rohit.png);
+    color: white;
+    text-align: center;
+    font-size: bold;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#a {
+    background-color: lightpink;
+    padding: 10px;
+    width: 38%;
+    text-align: center;
+}
+
+video {
+    padding: 5px 5px;
+}
+
+#b {
+    background-color: springgreen;
+    padding: 10px;
+    width: 38%;
+    text-align: center;
+}
+
+footer {
+    background-color: thistle;
+    padding: 5px;
+    width: 35%;
+    margin: 5px;
+}

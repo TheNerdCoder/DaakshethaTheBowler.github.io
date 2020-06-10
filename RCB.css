@@ -1,0 +1,47 @@
+body {
+    background-image: url(./Resources/RCB-Logo_571_855.jpg);
+    margin: 0px 150px;
+    font-family: 'Roboto Slab', serif;
+}
+
+header {
+    background-image: url(./Resources/download\ \(2\).jpg);
+    color: white;
+    text-align: center;
+    font-size: bold;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#a {
+    background-color: lightpink;
+    padding: 10px;
+    width: 38%;
+    text-align: center;
+}
+
+video {
+    padding: 5px 5px;
+}
+
+#b {
+    background-color: springgreen;
+    padding: 10px;
+    width: 60%;
+    text-align: center;
+}
+
+footer {
+    background-color: thistle;
+    padding: 5px;
+    width: 35%;
+    margin: 5px;
+}
+
+#daa {
+    padding: 5px;
+}
+
+#ha {
+    width: 250px;
+}
